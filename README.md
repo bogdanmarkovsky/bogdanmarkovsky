@@ -1,6 +1,6 @@
 <h1 align="center">Привет всем, меня зовут <a href="https://t.me/bogdan_markovsky" target="_blank">Богдан</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я - Junior Frontend Developer 🇷🇺</h3>
+<h3 align="center">Я - Junior Frontend Developer и сейчас нахожусь в поиске работы 🇷🇺</h3>
 
 <h4>Мой стек:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
